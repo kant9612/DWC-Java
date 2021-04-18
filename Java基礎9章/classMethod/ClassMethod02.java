@@ -1,5 +1,3 @@
-// TODO: このファイルをclassmethodパッケージ内に作成
-
 // パッケージ宣言
 package classMethod;
 
@@ -15,3 +13,5 @@ public class ClassMethod02 {
         System.out.println("名前は" + sato.name + "で、年齢は" + sato.age + "です。");
     }
 }
+
+// TODO: eclipse IDEでは実行可能。cloud9で実行できない理由を探す。
